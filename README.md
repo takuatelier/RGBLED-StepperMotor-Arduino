@@ -28,7 +28,10 @@ Promotion Video : [takuatelier_youtube](https://youtu.be/q2bUVsQHQiE)
 By running the program on Arduino, change the blinking LED and the rotation speed of the motor depending on the volume value.
 
 ## Reference
-[Philip Salmony：IMU Attitude Estimation](http://philsal.co.uk/projects/imu-attitude-estimation)
+
+- [akizukidenshi DRV8835 PDF](https://akizukidenshi.com/download/ds/akizuki/AE-DRV8835-Ss.pdf)
+
+- [akizukidenshi ST-42BYH1004](https://akizukidenshi.com/download/ds/mercurymotor/ST-42BYH1004-5013.pdf)
 
 ## License
 [MIT](https://github.com/takuatelier/RGBLED-StepperMotor-Arduino/blob/main/LICENSE)
